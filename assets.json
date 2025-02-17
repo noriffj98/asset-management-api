@@ -1,0 +1,38 @@
+{
+    "daca7d4b-5064-4054-9e9d-73b8062a00dc": {
+        "fund_id": "daca7d4b-5064-4054-9e9d-73b8062a00dc",
+        "fund_name": "Test Fund",
+        "fund_manager_name": "David Suh",
+        "fund_description": "A test fund.",
+        "fund_nav": 150.75,
+        "fund_creation_date": "2024-11-05",
+        "fund_performance": 12.5
+    },
+    "16d687af-09a8-4b8e-8429-94422e309909": {
+        "fund_id": "16d687af-09a8-4b8e-8429-94422e309909",
+        "fund_name": "Test Fund",
+        "fund_manager_name": "David Suh",
+        "fund_description": "A test fund.",
+        "fund_nav": 150.75,
+        "fund_creation_date": "2024-11-05",
+        "fund_performance": 12.5
+    },
+    "f9109abd-da42-496c-b908-8b92b0845490": {
+        "fund_id": "f9109abd-da42-496c-b908-8b92b0845490",
+        "fund_name": "Test Fund",
+        "fund_manager_name": "David Suh",
+        "fund_description": "A test fund.",
+        "fund_nav": 150.75,
+        "fund_creation_date": "2024-11-05",
+        "fund_performance": 15.5
+    },
+    "9629ad35-da44-4812-bbc3-a485bfb1e760": {
+        "fund_id": "9629ad35-da44-4812-bbc3-a485bfb1e760",
+        "fund_name": "Test Fund",
+        "fund_manager_name": "David Suh",
+        "fund_description": "A test fund.",
+        "fund_nav": 150.75,
+        "fund_creation_date": "2024-11-05",
+        "fund_performance": 12.5
+    }
+}
